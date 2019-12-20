@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14056" started-at="2019-12-20T12:32:09 IST" finished-at="2019-12-20T12:32:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14056" started-at="2019-12-20T12:32:09 IST" finished-at="2019-12-20T12:32:23 IST">
+      <class name="com.Google.TestCases.LoginTest">
+        <test-method status="PASS" signature="testMethodSetup()[pri:0, instance:com.Google.TestCases.LoginTest@49fc609f]" name="testMethodSetup" is-config="true" duration-ms="8001" started-at="2019-12-20T12:32:09 IST" finished-at="2019-12-20T12:32:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodSetup -->
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:com.Google.TestCases.LoginTest@49fc609f]" name="testlogin" duration-ms="3176" started-at="2019-12-20T12:32:17 IST" finished-at="2019-12-20T12:32:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testMethodCleanup()[pri:0, instance:com.Google.TestCases.LoginTest@49fc609f]" name="testMethodCleanup" is-config="true" duration-ms="2810" started-at="2019-12-20T12:32:20 IST" finished-at="2019-12-20T12:32:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodCleanup -->
+      </class> <!-- com.Google.TestCases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
